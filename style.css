@@ -1,0 +1,31 @@
+body{
+    background-image: url(assets/sky-img.jpg);
+    background-size: cover;
+}
+
+*{
+    margin: 5px;
+}
+
+.head{
+    text-align: center;
+}
+
+
+#Creater{
+    text-align: center;
+}
+
+.Pics{
+    width: 80vh;
+    height: 50vh;
+   border: 2px solid;
+}
+
+p{
+    font-size: large;
+}
+
+.topic{
+    font-size:5vh;
+}
